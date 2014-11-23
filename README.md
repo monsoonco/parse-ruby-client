@@ -1,3 +1,5 @@
+## Internal notes: Forked for use in Spun w. quiet mode
+
 ## Summary
 
 parse-ruby-client lets you interact with Parse using Ruby. There are many uses. For example:
