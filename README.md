@@ -1,4 +1,4 @@
-## Internal notes: Forked for use in Spun w. quiet mode
+- Internal: Forked for use in Spun w. quiet mode -Brooks
 
 ## Summary
 
